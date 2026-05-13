@@ -1,37 +1,37 @@
 [
   {
+    "issuer": "ICPC SA",
+    "name": "Brazil First Phase-staff",
+    "date": "13/9/2025",
+    "hours": "",
+    "file": "2026-ICPC SA Brazil First Phase-staff.pdf"
+  },
+  {
     "issuer": "Alura",
-    "name": "React: desenvolvendo com JavaScript",
-    "date": "03/2025",
+    "name": "C#_ creating your first application",
+    "date": "08/2025",
+    "hours": "8h",
+    "file": "C#_ creating your first application - Pedro Augusto Chaves Da Silva - Alura.pdf"
+  },
+  {
+    "issuer": "Alura",
+    "name": "HTML and CSS development environments, file structure and tags",
+    "date": "9/2025",
+    "hours": "8h",
+    "file": "HTML and CSS_ development environments, file structure and tags - Pedro Augusto Chaves Da Silva - Alura.pdf"
+  },
+  {
+    "issuer": "Alura",
+    "name": "HTML and CSS Ambiente,Estrutra e Estilo",
+    "date": "03/2026",
     "hours": "20h",
-    "file": "certificados/alura-react.pdf"
+    "file": "HTML_CSS_Ambiente, Estrutura e Estilo.pdf"
   },
   {
-    "issuer": "Rocketseat",
-    "name": "Ignite — Trilha Node.js",
-    "date": "01/2025",
-    "hours": "40h",
-    "file": "certificados/rocketseat-node.pdf"
-  },
-  {
-    "issuer": "Origamid",
-    "name": "JavaScript Completo ES6+",
-    "date": "11/2024",
-    "hours": "62h",
-    "file": "certificados/origamid-js.pdf"
-  },
-  {
-    "issuer": "Udemy",
-    "name": "TypeScript: do zero ao avançado",
-    "date": "09/2024",
-    "hours": "30h",
-    "file": "certificados/udemy-typescript.pdf"
-  },
-  {
-    "issuer": "FreeCodeCamp",
-    "name": "Responsive Web Design",
-    "date": "06/2024",
-    "hours": "300h",
-    "file": "certificados/fcc-responsive.pdf"
+    "issuer": "Alura",
+    "name": "Java creating your first application",
+    "date": "07/2025",
+    "hours": "8h",
+    "file": "Java_ creating your first application - Pedro Augusto Chaves Da Silva - Alura.pdf"
   }
 ]
