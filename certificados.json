@@ -1,0 +1,37 @@
+[
+  {
+    "issuer": "Alura",
+    "name": "React: desenvolvendo com JavaScript",
+    "date": "03/2025",
+    "hours": "20h",
+    "file": "certificados/alura-react.pdf"
+  },
+  {
+    "issuer": "Rocketseat",
+    "name": "Ignite — Trilha Node.js",
+    "date": "01/2025",
+    "hours": "40h",
+    "file": "certificados/rocketseat-node.pdf"
+  },
+  {
+    "issuer": "Origamid",
+    "name": "JavaScript Completo ES6+",
+    "date": "11/2024",
+    "hours": "62h",
+    "file": "certificados/origamid-js.pdf"
+  },
+  {
+    "issuer": "Udemy",
+    "name": "TypeScript: do zero ao avançado",
+    "date": "09/2024",
+    "hours": "30h",
+    "file": "certificados/udemy-typescript.pdf"
+  },
+  {
+    "issuer": "FreeCodeCamp",
+    "name": "Responsive Web Design",
+    "date": "06/2024",
+    "hours": "300h",
+    "file": "certificados/fcc-responsive.pdf"
+  }
+]
