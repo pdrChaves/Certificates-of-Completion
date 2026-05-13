@@ -1,5 +1,9 @@
 [
   {
+    "mensagem": "esse arquivo serve para fazer conexão com o meu portfolio"
+  },
+  
+  {
     "issuer": "ICPC SA",
     "name": "Brazil First Phase-staff",
     "date": "13/9/2025",
@@ -33,5 +37,110 @@
     "date": "07/2025",
     "hours": "8h",
     "file": "Java_ creating your first application - Pedro Augusto Chaves Da Silva - Alura.pdf"
-  }
+  },
+  {
+    "issuer": "Alura",
+    "name": "Javascript Aprendendo A Programar",
+    "date": "05/2026",
+    "hours": "20h",
+    "file": "Javascript_Aprendendo_A_Programar.pdf"
+  },
+  {
+    "issuer": "DIO",
+    "name": "N8N Criação de Workflows Simples no N8N ",
+    "date": "09/2025",
+    "hours": "1h",
+    "file": "N8N_ Criação de Workflows Simples no N8N - Pedro Augusto Chaves Da Silva - DIO.pdf"
+  },
+  {
+    "issuer": "DIO",
+    "name": "N8N Navegação e Interface no N8N",
+    "date": "09/2025",
+    "hours": "1h",
+    "file": "N8N_ Navegação e Interface do N8N - Pedro Augusto Chaves Da Silva - DIO.pdf"
+  },
+  {
+    "issuer": "DIO",
+    "name": "N8N Primeiros Passos com N8N ",
+    "date": "09/2025",
+    "hours": "1h",
+    "file": "N8N_ Primeiros Passos com N8N - Pedro Augusto Chaves Da Silva - DIO.pdf"
+  },
+   {
+    "issuer": "Alura",
+    "name": "N8N Mastering No-Code and Low-Code Automation",
+    "date": "09/2025",
+    "hours": "4h",
+    "file": "N8N_ mastering no-code and low-code automation - Pedro Augusto Chaves Da Silva - Alura.pdf"     
+  },
+  {
+    "issuer": "DIO",
+    "name": "N8N Automatizando Processos",
+    "date": "01/2026",
+    "hours": "1h",
+    "file": "N8N_Automatizando Processos com N8N.pdf"    
+  },
+  {
+    "issuer": "DIO",
+    "name": "N8N Automatização de Processos",
+    "date": "01/2026",
+    "hours": "3h",
+    "file": "N8N_Automatizando Processos.pdf"    
+  },
+  {
+    "issuer": "DIO",
+    "name": "N8N Integração com Serviços Populares",
+    "date": "01/2026",
+    "hours": "1h",
+    "file": "N8N_Integração com Serviços Populares no N8N.pdf"    
+  },
+  {
+    "issuer": "DIO",
+    "name": "N8N Introdução a N8N e Workflows",
+    "date": "12/2025",
+    "hours": "5h",
+    "file": "N8N_Introducao a N8N & Workflows.pdf"    
+  },
+  {
+    "issuer": "DIO",
+    "name": "N8N Utilizando Nós Padrão do N8N",
+    "date": "01/2026",
+    "hours": "1h",
+    "file": "N8N_Utilizando Nós Padrão do N8N.pdf"    
+  },
+  {
+    "issuer": "Alura",
+    "name": "PHP Criando Sua Aplicação",
+    "date": "03/2026",
+    "hours": "8h",
+    "file": "PHP_Criando Sua Aplicação.pdf"    
+  },
+  {
+    "issuer": "Alura",
+    "name": "PHP Evolua Seu Conhecimento e Organize Seu Código",
+    "date": "03/2026",
+    "hours": "8h",
+    "file": "PHP_Evolua seu conhecimento e organize seu código.pdf"    
+  },
+  {
+    "issuer": "FATEC Cruzeiro",
+    "name": "Programação Paralela",
+    "date": "10/2025",
+    "hours": "2h",
+    "file": "Programacao_Parelela_Certificado.pdf"    
+  },
+  {
+    "issuer": "Alura",
+    "name": "Starting in Programming: Carrer and First Steps",
+    "date": "04/2025",
+    "hours": "1h",
+    "file": "Starting in Programming_ career and first steps - Pedro Augusto Chaves Da Silva - Alura.pdf"    
+  },
+  {
+    "issuer": "FATEC Cruzeiro",
+    "name": "Treinamento Maratona de Programação",
+    "date": "11/2025",
+    "hours": "3h",
+    "file": "Treinamento_Maratona_Programação_Certificado.pdf"    
+  },
 ]
