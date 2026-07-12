@@ -138,5 +138,12 @@
     "date": "11/2025",
     "hours": "3h",
     "file": "Treinamento_Maratona_Programação_Certificado.pdf"
+  },
+  {
+    "issuer": "Alura",
+    "name": "Pensamento computacional: fundamentos da computação e lógica de programação",
+    "date": "07/2026",
+    "hours": "8h",
+    "file": "Pensamento computacional_ fundamentos da computação e lógica de programação - Alura.pdf"
   }
 ]
