@@ -15,20 +15,6 @@
   },
   {
     "issuer": "Alura",
-    "name": "HTML and CSS development environments, file structure and tags",
-    "date": "9/2025",
-    "hours": "8h",
-    "file": "HTML and CSS_ development environments, file structure and tags - Pedro Augusto Chaves Da Silva - Alura.pdf"
-  },
-  {
-    "issuer": "Alura",
-    "name": "HTML and CSS Ambiente,Estrutra e Estilo",
-    "date": "03/2026",
-    "hours": "20h",
-    "file": "HTML_CSS_Ambiente, Estrutura e Estilo.pdf"
-  },
-  {
-    "issuer": "Alura",
     "name": "Java creating your first application",
     "date": "07/2025",
     "hours": "8h",
@@ -106,13 +92,6 @@
   },
   {
     "issuer": "Alura",
-    "name": "PHP Criando Sua Aplicação",
-    "date": "03/2026",
-    "hours": "8h",
-    "file": "PHP_Criando Sua Aplicação.pdf"
-  },
-  {
-    "issuer": "Alura",
     "name": "PHP Evolua Seu Conhecimento e Organize Seu Código",
     "date": "03/2026",
     "hours": "8h",
@@ -152,6 +131,13 @@
     "date": "09/2026",
     "hours": "8h",
     "file": "Git e GitHub_ compartilhando e colaborando em projetos - Alura.pdf"
+  },
+  {
+    "issuer": "Alura",
+    "name": "Git e Github: Dominando Controle de Versão de Código",
+    "date": "10/2026",
+    "hours": "8h",
+    "file": "Git e GitHub_ dominando controle de versão de código - Alura.pdf"
   },
   {
     "issuer": "Google",
